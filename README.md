@@ -8,7 +8,7 @@ Introduction to Kubernetes & Cloud Native Ecosystem
 Containers & Orchestration Overview
 Course Roadmap Overview
 
-# Day 2:
+# [Day 2](https://github.com/ahmadullah-ai-ops/30-Day-Comprehensive-Kubernetes-Course/blob/main/Day%202%20Kubernetes%20Architecture%20Deep%20Dive.pdf):
 
 Kubernetes Architecture Deep Dive
 Cluster Components: API Server, Scheduler, Controller Manager, Kubelet, Kube Proxy
