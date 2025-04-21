@@ -2,7 +2,7 @@
 Here’s a 30-day comprehensive Kubernetes course How I learnt, You can Learn it very easily too in 30 days. 
 ## Week 1: Core Kubernetes Concepts and Cluster Setup
 
-# Day 1:
+# [Day 1](https://github.com/ahmadullah-ai-ops/30-Day-Comprehensive-Kubernetes-Course/blob/main/Day%201%20Introduction%20to%20Kubernetes%20%26%20the%20Cloud%20Native%20Ecosystem.pdf):
 
 Introduction to Kubernetes & Cloud Native Ecosystem
 Containers & Orchestration Overview
