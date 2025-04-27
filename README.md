@@ -13,7 +13,7 @@ Course Roadmap Overview
 Kubernetes Architecture Deep Dive
 Cluster Components: API Server, Scheduler, Controller Manager, Kubelet, Kube Proxy
 
-# [Day 3](https://github.com/ahmadullah-ai-ops/30-Day-Comprehensive-Kubernetes-Course/blob/main/ETCD%20%26%20ETCDCTL%20Cluster%20Communication%20%26%20Control%20Plane%201.pdf)(https://github.com/ahmadullah-ai-ops/30-Day-Comprehensive-Kubernetes-Course/blob/main/ETCD%20%26%20ETCDCTL%20Cluster%20Communication%20%26%20Control%20Plane%202.pdf):
+# [Day 3(1)](https://github.com/ahmadullah-ai-ops/30-Day-Comprehensive-Kubernetes-Course/blob/main/ETCD%20%26%20ETCDCTL%20Cluster%20Communication%20%26%20Control%20Plane%201.pdf) [Day 3(2)](https://github.com/ahmadullah-ai-ops/30-Day-Comprehensive-Kubernetes-Course/blob/main/ETCD%20%26%20ETCDCTL%20Cluster%20Communication%20%26%20Control%20Plane%202.pdf):
 
 ETCD & ETCDCTL
 Cluster Communication & Control Plane
