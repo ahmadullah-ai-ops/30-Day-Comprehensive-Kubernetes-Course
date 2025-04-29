@@ -18,7 +18,7 @@ Cluster Components: API Server, Scheduler, Controller Manager, Kubelet, Kube Pro
 ETCD & ETCDCTL
 Cluster Communication & Control Plane
 
-# Day 4:
+# [Day 4](https://github.com/ahmadullah-ai-ops/30-Day-Comprehensive-Kubernetes-Course/blob/main/Day%204%20Cluster%20Setup%20using%20kind%2C%20Minikube%2C%20and%20Kubeadm%20High%20Availability%20Overview.pdf):
 
 Cluster Setup using kind, Minikube, and Kubeadm
 High Availability Overview
